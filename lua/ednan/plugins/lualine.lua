@@ -7,7 +7,7 @@ return {
 
     lualine.setup({
       options = {
-        theme = 'auto',
+        theme = 'horizon',
       },
       sections = {
         lualine_x = {
